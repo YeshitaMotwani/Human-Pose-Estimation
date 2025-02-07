@@ -113,10 +113,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## **📜 License**  
-This project is licensed under the **MIT License**. See `LICENSE` for details.  
-
----
 
 ## **🙌 Acknowledgements**  
 Special thanks to the **open-source community** and the developers of TensorFlow, OpenCV, and Streamlit for making this project possible.  
